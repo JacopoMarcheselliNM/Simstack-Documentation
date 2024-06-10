@@ -139,8 +139,8 @@ your HPC without entering your user password.
 
 .. _Configuration:
 
-Simstack Server Configuration
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Simstack Configuration of Server Connection
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Setup the server by opening the configuration menu: ``Configuration`` -> ``Servers``
 
@@ -176,8 +176,8 @@ Simstack Paths configuration
 
 You must replace the characters ``xxxxxx`` and ``yyyyyy`` with your proper setup as highlighted in the figure above.
 The first folder paths is where Simstack will store the Workflows that you will save, while the second folder is where
-Simstack will look for the WaNo files, that you can download or clone from the 
-`Nanomatch Git Repository <https://github.com/NanomatchGmbH/wano.git/>`_ 
+Simstack will look for the WaNo files. You can find some examples of WaNos for Simstack at this link: 
+`Nanomatch Git Repository <https://github.com/NanomatchGmbH/wano.git/>`_, but there are many more available.
 
 
 Simstack Overview

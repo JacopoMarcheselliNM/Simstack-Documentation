@@ -11,7 +11,7 @@ Server Installation
 .. role:: green
 
 This manual is verified for SimStackServer v1.3.9
-Not that the Simstack Server is supported only on Linux systems, contrary to the Simstack Client, that is supported also on other platforms.
+Note that the Simstack Server is supported only on Linux systems, contrary to the Simstack Client, that is supported also on other platforms.
 
 Installing the **SimStack** server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
