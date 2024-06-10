@@ -166,6 +166,20 @@ and don't forget to load (**SSH Private Key**) your ``ssh`` key.
 
 .. warning:: If you get an error message during your try, double-check the field on the server setup.
 
+
+Simstack Paths configuration
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Setup the Workflow Workspace, and WaNo Repository:   ``Configuration`` -> ``Paths``
+
+.. figure:: /assets/Simstack_Paths.png
+
+You must replace the characters ``xxxxxx`` and ``yyyyyy`` with your proper setup as highlighted in the figure above.
+The first folder paths is where Simstack will store the Workflows that you will save, while the second folder is where
+Simstack will look for the WaNo files, that you can download or clone from the 
+`Nanomatch Git Repository <https://github.com/NanomatchGmbH/wano.git/>`_ 
+
+
 Simstack Overview
 ^^^^^^^^^^^^^^^^^
 
